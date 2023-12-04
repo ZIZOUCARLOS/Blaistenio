@@ -1,0 +1,17 @@
+{
+  "name": "blaistenio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Carlos Echagarreta",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
